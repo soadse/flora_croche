@@ -1,0 +1,142 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins', sans-serif;
+}
+
+body{
+    background:#fffaf7;
+    color:#333;
+    line-height:1.6;
+}
+
+.container{
+    width:90%;
+    max-width:1200px;
+    margin:auto;
+}
+
+header{
+    background:linear-gradient(135deg,#f8d7d0,#fceeea);
+    padding:100px 0;
+    text-align:center;
+}
+
+header h1{
+    font-size:3rem;
+    color:#7a4e48;
+}
+
+header p{
+    margin:20px 0;
+    font-size:1.2rem;
+}
+
+.btn{
+    display:inline-block;
+    padding:15px 35px;
+    background:#d48b7a;
+    color:#fff;
+    text-decoration:none;
+    border-radius:50px;
+    font-weight:600;
+    transition:0.3s;
+}
+
+.btn:hover{
+    background:#b76c5d;
+}
+
+.section{
+    padding:80px 0;
+}
+
+.section-title{
+    text-align:center;
+    margin-bottom:50px;
+    font-size:2rem;
+    color:#7a4e48;
+}
+
+.grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+    gap:30px;
+}
+
+.card{
+    background:#fff;
+    padding:25px;
+    border-radius:15px;
+    box-shadow:0 5px 20px rgba(0,0,0,0.05);
+    transition:0.3s;
+}
+
+.card:hover{
+    transform:translateY(-10px);
+}
+
+.card img{
+    width:100%;
+    border-radius:10px;
+}
+
+.card h3{
+    margin:15px 0 10px;
+}
+
+.price{
+    color:#d48b7a;
+    font-weight:700;
+    font-size:1.2rem;
+}
+
+.testimonial{
+    background:#fceeea;
+    padding:30px;
+    border-radius:15px;
+}
+
+.cta{
+    background:linear-gradient(135deg,#d48b7a,#b76c5d);
+    color:#fff;
+    text-align:center;
+    padding:80px 20px;
+}
+
+.cta h2{
+    font-size:2.5rem;
+    margin-bottom:20px;
+}
+
+.countdown{
+    font-size:1.5rem;
+    margin:20px 0;
+}
+
+footer{
+    text-align:center;
+    padding:30px;
+    background:#7a4e48;
+    color:#fff;
+}
+
+.whatsapp{
+    position:fixed;
+    bottom:20px;
+    right:20px;
+    background:#25D366;
+    color:#fff;
+    padding:15px 20px;
+    border-radius:50px;
+    text-decoration:none;
+    font-weight:600;
+    box-shadow:0 5px 15px rgba(0,0,0,0.2);
+}
+
+@media(max-width:768px){
+    header h1{
+        font-size:2rem;
+    }
+}
