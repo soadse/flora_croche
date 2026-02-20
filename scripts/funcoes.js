@@ -17,3 +17,4 @@ closed.addEventListener('click', () => {
         e.style.display = 'none'
     })
 })
+

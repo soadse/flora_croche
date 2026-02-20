@@ -23,8 +23,14 @@ function buscaDados(base, grid) {
             let preco = document.createElement('p')
             preco.innerText = e. preco
 
+
             let btn = document.createElement('btn')
             btn.innerText = "Saiba Mais"
+            btn.addEventListener('click', () => {
+                let url = "https://wa.me/5511974635138"
+                window.open(url, "_blank")
+            })
+        
 
             let div = document.createElement('div')
             div.appendChild(img)
