@@ -32,10 +32,11 @@ function buscaDados(base, grid) {
             btn.innerText = "Saiba Mais"
             btn.addEventListener('click', () => {
                 let mensagem = `Olá, gostaria de saber mais sobre:`
+                let espaco = ""
                 let descricao = `(${e.cod}/${e.categoria})`
                 let produtoPreco = `${e.produto} no valor R$${e.preco}`
                 let numero = "5511974635138";
-                let url = `https://wa.me/${numero}?text=${mensagem}%0A${produtoPreco}%0A${descricao}`
+                let url = `https://wa.me/${numero}?text=${mensagem}%0A${espaco}%0A${produtoPreco}%0A${descricao}`
                 window.open(url, "_blank")
             })
         
