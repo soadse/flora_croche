@@ -72,11 +72,8 @@ nav a:hover {
     .menu, .closed {
         display: none;
     }
-    .container .banner {
-        width: 100%;
-        box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.479);
-        height: 220px;
-        object-fit: cover;
+    .container .descricao{
+        text-align: center;
     }
 }
 @media screen and (min-width: 480px) {
@@ -89,9 +86,6 @@ nav a:hover {
     .cta iframe {
         width: 480px;
         height: 300px;
-    }
-    .container .banner {
-        display: none;
     }
 }
 
@@ -119,6 +113,8 @@ nav a:hover {
     margin-bottom:50px;
     font-size:2rem;
     color:#7a4e48;
+    border-left: 5px solid #7a4e48;
+    border-right: 5px solid #7a4e48;
 }
 
 .grid, .grid-produtos-verao, .grid-produtos-infantil, .grid-produtos-banheiro, .grid-produtos-mesa{
