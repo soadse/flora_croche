@@ -1,22 +1,64 @@
 [
     {
-        "id": "1",
-        "imagem": "./imagens/img03.jpg",
-        "categoria": "Vestido de Crochê",
+        "cod": "cod.001",
+        "imagem": "./imagens/moda_verao/cod001.webp",
+        "categoria": "Moda Verão",
         "produto": "Vestido de Verão",
         "preco": "189,90"
     },
     {
-        "id": "2",
-        "imagem": "./imagens/img02.jpg",
-        "categoria": "Vestido de Crochê",
+        "cod": "cod.002",
+        "imagem": "./imagens/moda_verao/cod002.webp",
+        "categoria": "Moda Verão",
         "produto": "Vestido de Verão",
         "preco": "189,90"
     },
     {
-        "id": "3",
-        "imagem": "./imagens/img01.jpg",
-        "categoria": "Vestido de Crochê",
+        "cod": "cod.003",
+        "imagem": "./imagens/moda_verao/cod003.webp",
+        "categoria": "Moda Verão",
+        "produto": "Vestido de Verão",
+        "preco": "189,90"
+    },
+    {
+        "cod": "cod.004",
+        "imagem": "./imagens/moda_verao/cod004.webp",
+        "categoria": "Moda Verão",
+        "produto": "Vestido de Verão",
+        "preco": "189,90"
+    },
+    {
+        "cod": "cod.005",
+        "imagem": "./imagens/moda_verao/cod005.webp",
+        "categoria": "Moda Verão",
+        "produto": "Vestido de Verão",
+        "preco": "189,90"
+    },
+    {
+        "cod": "cod.006",
+        "imagem": "./imagens/moda_verao/cod006.webp",
+        "categoria": "Moda Verão",
+        "produto": "Vestido de Verão",
+        "preco": "189,90"
+    },
+    {
+        "cod": "cod.007",
+        "imagem": "./imagens/moda_verao/cod007.webp",
+        "categoria": "Moda Verão",
+        "produto": "Vestido de Verão",
+        "preco": "189,90"
+    },
+    {
+        "cod": "cod.008",
+        "imagem": "./imagens/moda_verao/cod008.webp",
+        "categoria": "Moda Verão",
+        "produto": "Vestido de Verão",
+        "preco": "189,90"
+    },
+    {
+        "cod": "cod.009",
+        "imagem": "./imagens/moda_verao/cod009.webp",
+        "categoria": "Moda Verão",
         "produto": "Vestido de Verão",
         "preco": "189,90"
     }

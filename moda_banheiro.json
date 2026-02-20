@@ -1,0 +1,58 @@
+[
+    {
+        "cod": "cod.001",
+        "imagem": "./imagens/moda_banheiro/cod001.webp",
+        "categoria": "Jogo de Banheiro",
+        "produto": "Tapete de Banheiro",
+        "preco": "229,90"
+    },
+    {
+        "cod": "cod.002",
+        "imagem": "./imagens/moda_banheiro/cod002.webp",
+        "categoria": "Jogo de Banheiro",
+        "produto": "Tapete de Banheiro",
+        "preco": "229,90"
+    },
+    {
+        "cod": "cod.003",
+        "imagem": "./imagens/moda_banheiro/cod003.webp",
+        "categoria": "Jogo de Banheiro",
+        "produto": "Tapete de Banheiro",
+        "preco": "229,90"
+    },
+    {
+        "cod": "cod.004",
+        "imagem": "./imagens/moda_banheiro/cod004.webp",
+        "categoria": "Jogo de Banheiro",
+        "produto": "Tapete de Banheiro",
+        "preco": "229,90"
+    },
+    {
+        "cod": "cod.005",
+        "imagem": "./imagens/moda_banheiro/cod005.webp",
+        "categoria": "Jogo de Banheiro",
+        "produto": "Tapete de Banheiro",
+        "preco": "229,90"
+    },
+    {
+        "cod": "cod.006",
+        "imagem": "./imagens/moda_banheiro/cod006.webp",
+        "categoria": "Jogo de Banheiro",
+        "produto": "Tapete de Banheiro",
+        "preco": "229,90"
+    },
+    {
+        "cod": "cod.007",
+        "imagem": "./imagens/moda_banheiro/cod007.webp",
+        "categoria": "Jogo de Banheiro",
+        "produto": "Tapete de Banheiro",
+        "preco": "229,90"
+    },
+    {
+        "cod": "cod.008",
+        "imagem": "./imagens/moda_banheiro/cod008.webp",
+        "categoria": "Jogo de Banheiro",
+        "produto": "Tapete de Banheiro",
+        "preco": "229,90"
+    }
+]

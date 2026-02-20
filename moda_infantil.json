@@ -1,0 +1,44 @@
+[
+    {
+        "cod": "cod.001",
+        "imagem": "./imagens/moda_infantil/cod001.webp",
+        "categoria": "Moda Infantil",
+        "produto": "Conjuntinho de crochê",
+        "preco": "189,90"
+    },
+    {
+        "cod": "cod.002",
+        "imagem": "./imagens/moda_infantil/cod002.webp",
+        "categoria": "Moda Infantil",
+        "produto": "Conjuntinho de crochê",
+        "preco": "189,90"
+    },
+    {
+        "cod": "cod.003",
+        "imagem": "./imagens/moda_infantil/cod003.webp",
+        "categoria": "Moda Infantil",
+        "produto": "Conjuntinho de crochê",
+        "preco": "189,90"
+    },
+    {
+        "cod": "cod.004",
+        "imagem": "./imagens/moda_infantil/cod004.webp",
+        "categoria": "Moda Infantil",
+        "produto": "Conjuntinho de crochê",
+        "preco": "189,90"
+    },
+    {
+        "cod": "cod.005",
+        "imagem": "./imagens/moda_infantil/cod005.webp",
+        "categoria": "Moda Infantil",
+        "produto": "Conjuntinho de crochê",
+        "preco": "189,90"
+    },
+    {
+        "cod": "cod.006",
+        "imagem": "./imagens/moda_infantil/cod006.webp",
+        "categoria": "Moda Infantil",
+        "produto": "Conjuntinho de crochê",
+        "preco": "189,90"
+    }
+]

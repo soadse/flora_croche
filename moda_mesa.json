@@ -1,0 +1,16 @@
+[
+    {
+        "cod": "cod.001",
+        "imagem": "./imagens/moda_mesa/cod001.webp",
+        "categoria": "Jogo de Mesa",
+        "produto": "Toalha de Mesa",
+        "preco": "149,90"
+    },
+    {
+        "cod": "cod.002",
+        "imagem": "./imagens/moda_mesa/cod002.webp",
+        "categoria": "Jogo de Mesa",
+        "produto": "Toalha de Mesa",
+        "preco": "229,90"
+    }
+]
