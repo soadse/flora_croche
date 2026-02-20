@@ -38,6 +38,9 @@ nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 1;
 }
 nav a {
     width: 100%;
@@ -102,7 +105,7 @@ nav a:hover {
     color:#7a4e48;
 }
 
-.grid, .grid-produtos{
+.grid, .grid-produtos, .grid-produtos-verao, .grid-produtos-inverno{
     display:grid;
     grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
     gap:30px;

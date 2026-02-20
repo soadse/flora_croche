@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "imagem": "./imagens/img03.jpg",
+        "categoria": "Vestido de Crochê",
+        "produto": "Vestido de Verão",
+        "preco": "189,90"
+    },
+    {
+        "id": "2",
+        "imagem": "./imagens/img02.jpg",
+        "categoria": "Vestido de Crochê",
+        "produto": "Vestido de Verão",
+        "preco": "189,90"
+    },
+    {
+        "id": "3",
+        "imagem": "./imagens/img01.jpg",
+        "categoria": "Vestido de Crochê",
+        "produto": "Vestido de Verão",
+        "preco": "189,90"
+    }
+]
